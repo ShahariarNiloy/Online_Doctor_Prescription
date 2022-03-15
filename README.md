@@ -1,1 +1,2 @@
 # Online_Doctor_Prescription
+A online platform where only a doctor can log in and have an account. A doctor can add medicine for his own account which he use frequently. Add patient and search previous patient history. Edit patient history and delete patient. Doctor can prescribe to a patient and see previous prescriptions medicine by searcing prescription or patient all prescription history. lastly generate pdf file of the prescription.
